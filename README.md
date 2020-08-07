@@ -1,7 +1,6 @@
 # Course Slides
-Progate Slide Library
+Progate Slide Library for the following courses
 - HTML
-- CSS
 - Python
 - Go
 - Git
